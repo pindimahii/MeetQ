@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MeetQ/static/css/main.cb5bc2a2.css",
+    "main.js": "/MeetQ/static/js/main.c6291d88.js",
+    "index.html": "/MeetQ/index.html",
+    "main.cb5bc2a2.css.map": "/MeetQ/static/css/main.cb5bc2a2.css.map",
+    "main.c6291d88.js.map": "/MeetQ/static/js/main.c6291d88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb5bc2a2.css",
+    "static/js/main.c6291d88.js"
+  ]
+}
